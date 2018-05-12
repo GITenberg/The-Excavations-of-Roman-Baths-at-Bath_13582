@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5140'
     url: http://www.gutenberg.org/2009/agents/5140
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13582#The-Excavations-of-Roman-Baths-at-Bath
 gutenberg_issued: '2004-10-02'
 gutenberg_type: Text
 identifiers:
